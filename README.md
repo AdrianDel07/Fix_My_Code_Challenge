@@ -1,4 +1,4 @@
-# Fix My Code
+# :wrench:Fix My Code
 Fix my code is a new type of project, where we’ll jump into an existing code base and fix it!
 
 Sometimes you will know the language, sometimes not.
@@ -7,6 +7,10 @@ Sometimes you will know the language, sometimes not.
 
 You should not recode everything, just fix it!
 
-| Proyects | Repositories |
+| Projects | Repositories |
 | ----------- | --------------- |
 | 0x00 | [Fix_My_Code_Challenge](https://github.com/holbertonschool/0x00-Fix_My_Code_Challenge) |
+
+
+## Author
+:octocat: Adrian De La Asuncion [Twitter](https://twitter.com/AdrianDeLaAsun1)
